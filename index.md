@@ -13,7 +13,7 @@ These lessons are developed collaboratively by the academic community of South A
 
 The lessons can be used as stand-alone lessons or can be combined to offer training over a day or two-days depending on the need of the audience.
 
-Overview of the lessons:
+## Overview of the lessons:
 
   * [Video Conferencing Best Practices](https://tenet-rccpii.github.io/video-conferencing-best-practices/)
   * [Lecture Capturing: Good Practices for Lecturers](https://tenet-rccpii.github.io/good-practice-guide-lecture-capturing/)
