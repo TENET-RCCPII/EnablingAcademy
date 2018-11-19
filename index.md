@@ -15,8 +15,8 @@ The lessons can be used as stand-alone lessons or can be combined to offer train
 
 Overview of the lessons:
 
-  * Video Conferencing Best Practices
-  * Lecture Capturing: Good Practices for Lecturers
+  * [Video Conferencing Best Practices](https://tenet-rccpii.github.io/video-conferencing-best-practices/)
+  * [Lecture Capturing: Good Practices for Lecturers](https://tenet-rccpii.github.io/good-practice-guide-lecture-capturing/)
   * Other 1
   * Other 2
   * Other 3
@@ -56,7 +56,7 @@ Overview of the lessons:
     <td><a href="https://tenet-rccpii.github.io/good-practice-guide-lecture-capturing/guide/index.html" target="_bank" class="icon-circle-with-plus" title="Lecture Capturing Instructor Guide"></a></td>
     <td>
       <a href="{{site.baseurl}}/team/#gonzalez_ivan">Person 3</a>,
-      <a href="{{site.baseurl}}/team/#huang_daisie">Person 4, Person 5
+     <a href="{{site.baseurl}}/team/#huang_daisie">Person 4</a>, Person 5
     </td>
   </tr>
 
