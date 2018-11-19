@@ -50,8 +50,8 @@ The lessons can be used as stand-alone lessons or can be combined to offer train
 
   <tr id="lecture-capture">
     <td>Lecture Capturing: Good Practices for Lecturers</td>
-    <td><a href="https://github.com/TENET-RCCPII/good-practice-guide-lecture-capturing" target="_blank"  title="Lecture Capturing"><img src="assets/img/browser.png"></a></td>
-    <td><a href="https://tenet-rccpii.github.io/good-practice-guide-lecture-capturing/" target="_blank" title="Lecture Capturing"><img src="assets/img/github.png"></a></td>
+    <td><a href="https://tenet-rccpii.github.io/good-practice-guide-lecture-capturing/" target="_blank"  title="Lecture Capturing"><img src="assets/img/browser.png"></a></td>
+    <td><a href="https://github.com/TENET-RCCPII/good-practice-guide-lecture-capturing" target="_blank" title="Lecture Capturing"><img src="assets/img/github.png"></a></td>
     <td><a href="https://tenet-rccpii.github.io/good-practice-guide-lecture-capturing/reference.html" target="_blank"  title="Lecture Capturing"><img src="assets/img/eye.png"></a></td>
     <td><a href="https://tenet-rccpii.github.io/good-practice-guide-lecture-capturing/guide/index.html" target="_bank"  title="Lecture Capturing Instructor Guide"><img src="assets/img/more.png"></a></td>
     <td>
