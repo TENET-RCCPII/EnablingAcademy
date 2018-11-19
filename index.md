@@ -3,7 +3,7 @@ layout: lesson
 root: .
 ---
 
-Data Carpentry's aim is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain. This workshop uses a tabular ecology dataset and teaches data cleaning, management, analysis and visualization. 
+These lessons are developed collaboratively by the academic community of South Africa and aim to provide a training resource for foundational skills that can enable academics to benefit from technology in the academic setting.
 
 
 > ## Prerequisites
@@ -11,63 +11,77 @@ Data Carpentry's aim is to teach researchers basic concepts, skills, and tools f
 > There are no pre-requisites, and the materials assume no prior knowledge about the tools.
 {: .prereq}
 
-> ## Data
-> 
-> The data for this workshop are is the [Portal Project Teaching Database](https://figshare.com/articles/Portal_Project_Teaching_Database/1314459) available on FigShare, with a CC-BY license available for reuse.
->
-> The Portal Project Teaching Database is a simplified version of the Portal 
-> Project Database designed for teaching. It is a tabular dataset of observations
-> of small mammals in a desert ecosystem in Arizona, USA, collected over more than 40 years.
-> It provides a real world example of 
-> life-history, population, and ecological data, with sufficient complexity to 
-> teach many aspects of data analysis and management, but with many complexities
-> removed to allow students to focus on the core ideas and skills being taught.
->
-> [More information on this dataset](data)
-{: .prereq}
-
-The workshop can be taught using R or Python as the base language.
+The lessons can be used as stand-alone lessons or can be combined to offer training over a day or two-days depending on the need of the audience.
 
 Overview of the lessons:
 
-  * Data organization in spreadsheets
-  * Data cleaning with OpenRefine
-  * Introduction to R or python
-  * Data analysis and visualization in R or python
-  * SQL for data management
+  * Video Conferencing Best Practices
+  * Lecture Capturing: Good Practices for Lecturers
+  * Other 1
+  * Other 2
+  * Other 3
 
 ## Detailed structure
 
-### Day 1 morning: Data organization & cleaning
+<h2>Our Core Lessons in English</h2>
 
-There are two lessons in this section. The first is a spreadsheet lesson that teaches  good data organization, and some data cleaning and quality control checking in a spreadsheet program.
+<table class="table table-striped" style="width: 100%; max-width: 100%">
+  <tr>
+    <th>Lesson</th>
+    <th>Site</th>
+    <th>Repository</th>
+    <th>Reference</th>
+    <th>Instructor Guide</th>
+    <th>Maintainer(s)</th>
+  </tr>
 
-  * [spreadsheet lesson](http://www.datacarpentry.org/spreadsheet-ecology-lesson/)
-  * [spreadsheet repository](https://github.com/datacarpentry/spreadsheet-ecology-lesson)
+  <tr>
+    <td id="video">Video Conferencing Best Practices</td>
+    <td><a href="https://tenet-rccpii.github.io/video-conferencing-best-practices/" target="_blank" class="icon-browser" title="Video Conferencing Best Practices"></a></td>
+    <td><a href="https://github.com/TENET-RCCPII/video-conferencing-best-practices" target="_blank" class="icon-github" title="Video Conferencing Best Practices"></a></td>
+    <td><a href="https://tenet-rccpii.github.io/video-conferencing-best-practices/reference.html" target="_blank" class="icon-eye" title="Video Conferencing Best Practices Reference"></a></td>
+    <td><a href="https://tenet-rccpii.github.io/video-conferencing-best-practices/guide/index.html" target="_bank" class="icon-circle-with-plus" title="Video Conferencing Best Practices Instructor Guide"></a></td>
+    <td>
+      <a href="{{site.baseurl}}/team/#devenyi_gabriel">Person 1</a>,
+      Colin Morris,
+      <a href="{{site.baseurl}}/team/#pitchers_w">Person 2</a>
+    </td>
+  </tr>
 
-The second lesson uses a program called [OpenRefine](http://openrefine.org/) to teach data cleaning and filtering, and to introduce the idea scripting(application programming interfaces).
+  <tr id="lecture-capture">
+    <td>Lecture Capturing: Good Practices for Lecturers</td>
+    <td><a href="https://github.com/TENET-RCCPII/good-practice-guide-lecture-capturing" target="_blank" class="icon-browser" title="Lecture Capturing"></a></td>
+    <td><a href="https://tenet-rccpii.github.io/good-practice-guide-lecture-capturing/" target="_blank" class="icon-github" title="Lecture Capturing"></a></td>
+    <td><a href="https://tenet-rccpii.github.io/good-practice-guide-lecture-capturing/reference.html" target="_blank" class="icon-eye" title="Lecture Capturing"></a></td>
+    <td><a href="https://tenet-rccpii.github.io/good-practice-guide-lecture-capturing/guide/index.html" target="_bank" class="icon-circle-with-plus" title="Lecture Capturing Instructor Guide"></a></td>
+    <td>
+      <a href="{{site.baseurl}}/team/#gonzalez_ivan">Person 3</a>,
+      <a href="{{site.baseurl}}/team/#huang_daisie">Person 4, Person 5
+    </td>
+  </tr>
 
-  * [OpenRefine lesson](http://www.datacarpentry.org/OpenRefine-ecology-lesson/)
-  * [OpenRefine repository](https://github.com/datacarpentry/OpenRefine-ecology-lesson)
+  <tr id="python">
+    <td>Other 1 </td>
+    <td><a href="{{site.github_io_url}}/python-novice-inflammation" target="_blank" class="icon-browser" title="Programming with Python"></a></td>
+    <td><a href="{{site.github_url}}/python-novice-inflammation" target="_blank" class="icon-github" title="Programming with Python"></a></td>
+    <td><a href="{{site.github_io_url}}/python-novice-inflammation/reference" target="_blank" class="icon-eye" title="Programming with Python"></a></td>
+    <td><a href="{{site.github_io_url}}/python-novice-inflammation/guide/" target="_bank" class="icon-circle-with-plus" title="The Python Inflammation Instructor Guide"></a></td>
+    <td>
+      <a href="{{site.baseurl}}/team/#bekolay_trevor">Person 6</a>,
+      <a href="{{site.baseurl}}/team/#staneva_valentina">Person 7</a>
+    </td>
+  </tr>
 
-### Day 1 afternoon and Day 2 morning: Data analysis & visualization
+  <tr id="python-gap">
+      <td>Other 2</td>
+      <td><a href="{{site.github_io_url}}/python-novice-gapminder" target="_blank" class="icon-browser" title="Plotting and Programming in Python"></a></td>
+      <td><a href="{{site.github_url}}/python-novice-gapminder" target="_blank" class="icon-github" title="Plotting and Programming in Python"></a></td>
+      <td><a href="{{site.github_io_url}}/python-novice-gapminder/reference" target="_blank" class="icon-eye" title="Plotting and Programming in Python"></a></td>
+      <td><a href="{{site.github_io_url}}/python-novice-gapminder/guide/" target="_bank" class="icon-circle-with-plus" title="The Python Gapminder Instructor Guide"></a></td>
+      <td>
+          <a href="{{site.baseurl}}/team/#moore_nathan">Person 8</a>
+      </td>
+  </tr>
 
-These lessons includes a basic information to R or Python syntax, importing CSV data, subsetting and merging, data, and finishes with how to do plotting.
-
-  * [R lesson](http://www.datacarpentry.org/R-ecology-lesson/) and [python lesson](http://www.datacarpentry.org/python-ecology-lesson/)
-  * [R repository](https://github.com/datacarpentry/R-ecology-lesson) and [python repository](https://github.com/datacarpentry/python-ecology-lesson)
-
-
-### Day 2 afternoon: Data management with SQL
-
-This lesson introduces the concept of a database using SQLite, how to structure data for easy database import, and how to import tabular data into SQLite. Then, it teaches basic queries, combining results and doing queries across multiple tables.  
-
-  * [SQL lesson](http://www.datacarpentry.org/sql-ecology-lesson/)
-  * [SQL repository](https://github.com/datacarpentry/sql-ecology-lesson)
-
-## Other lessons
-
-There are a number of other ecology lessons that are not part of the base workshop. Some of these are no longer taught, and some are only taught at extended workshops.
-
-  * [shell-ecology](https://github.com/datacarpentry/shell-ecology)
+</table>
 
