@@ -37,10 +37,10 @@ Overview of the lessons:
 
   <tr>
     <td id="video">Video Conferencing Best Practices</td>
-    <td><a href="https://tenet-rccpii.github.io/video-conferencing-best-practices/" target="_blank" class="icon-browser" title="Video Conferencing Best Practices"></a></td>
-    <td><a href="https://github.com/TENET-RCCPII/video-conferencing-best-practices" target="_blank" class="icon-github" title="Video Conferencing Best Practices"></a></td>
-    <td><a href="https://tenet-rccpii.github.io/video-conferencing-best-practices/reference.html" target="_blank" class="icon-eye" title="Video Conferencing Best Practices Reference"></a></td>
-    <td><a href="https://tenet-rccpii.github.io/video-conferencing-best-practices/guide/index.html" target="_bank" class="icon-circle-with-plus" title="Video Conferencing Best Practices Instructor Guide"></a></td>
+    <td><a href="https://tenet-rccpii.github.io/video-conferencing-best-practices/" target="_blank" title="Video Conferencing Best Practices"><img src="assets/img/browser.png"></a></td>
+    <td><a href="https://github.com/TENET-RCCPII/video-conferencing-best-practices" target="_blank" title="Video Conferencing Best Practices"><img src="assets/img/github.png"></a></td>
+    <td><a href="https://tenet-rccpii.github.io/video-conferencing-best-practices/reference.html" target="_blank" title="Video Conferencing Best Practices Reference"><img src="assets/img/eye.png"></a></td>
+    <td><a href="https://tenet-rccpii.github.io/video-conferencing-best-practices/guide/index.html" target="_bank"  title="Video Conferencing Best Practices Instructor Guide"><img src="assets/img/more.png"></a></td>
     <td>
       <a href="{{site.baseurl}}/team/#devenyi_gabriel">Person 1</a>,
       Colin Morris,
@@ -50,10 +50,10 @@ Overview of the lessons:
 
   <tr id="lecture-capture">
     <td>Lecture Capturing: Good Practices for Lecturers</td>
-    <td><a href="https://github.com/TENET-RCCPII/good-practice-guide-lecture-capturing" target="_blank" class="icon-browser" title="Lecture Capturing"></a></td>
-    <td><a href="https://tenet-rccpii.github.io/good-practice-guide-lecture-capturing/" target="_blank" class="icon-github" title="Lecture Capturing"></a></td>
-    <td><a href="https://tenet-rccpii.github.io/good-practice-guide-lecture-capturing/reference.html" target="_blank" class="icon-eye" title="Lecture Capturing"></a></td>
-    <td><a href="https://tenet-rccpii.github.io/good-practice-guide-lecture-capturing/guide/index.html" target="_bank" class="icon-circle-with-plus" title="Lecture Capturing Instructor Guide"></a></td>
+    <td><a href="https://github.com/TENET-RCCPII/good-practice-guide-lecture-capturing" target="_blank"  title="Lecture Capturing"><img src="assets/img/browser.png"></a></td>
+    <td><a href="https://tenet-rccpii.github.io/good-practice-guide-lecture-capturing/" target="_blank" title="Lecture Capturing"><img src="assets/img/github.png"></a></td>
+    <td><a href="https://tenet-rccpii.github.io/good-practice-guide-lecture-capturing/reference.html" target="_blank"  title="Lecture Capturing"><img src="assets/img/eye.png"></a></td>
+    <td><a href="https://tenet-rccpii.github.io/good-practice-guide-lecture-capturing/guide/index.html" target="_bank"  title="Lecture Capturing Instructor Guide"><img src="assets/img/more.png"></a></td>
     <td>
       <a href="{{site.baseurl}}/team/#gonzalez_ivan">Person 3</a>,
      <a href="{{site.baseurl}}/team/#huang_daisie">Person 4</a>, Person 5
